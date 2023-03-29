@@ -1,4 +1,4 @@
-# AGH-Modelowanie-w-naukach-o-Ziemi-2022
+# AGH - Earth Science Modeling 2022
 Final project of course Earth Science Modeling at AGH.
 
 The purpose of the project was to generate a mathematical model of the **Antarctic ice range** in the years 1978 - 2008.
